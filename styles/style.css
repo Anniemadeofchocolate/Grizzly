@@ -284,7 +284,7 @@ nav {margin-right: 20px;}
 @media only screen and (max-width:480px) 
 
 {
-body {min-width: 413px;
+body {min-width: 430px;
 		max-width: 455px;}
 
 header {height: 750px;}
