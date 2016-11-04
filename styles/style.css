@@ -9,7 +9,7 @@ body 	{width: 100%;
 		height: 1840px; 
 		margin: 0 auto;}
 
-header {width: 90%;
+main {width: 90%;
 		height: 548px;
 		background: rgb(84, 84, 84) url(../images/0fondo2.png);
 		background-attachment: fixed;
@@ -30,7 +30,7 @@ header {width: 90%;
 				margin: 0 auto;}
 		#nicolee {float: right; }
 
-main {width: 90%;
+#header {width: 90%;
 		height: 180px;
 		padding: 0 5%;
 		margin: 0px auto;
@@ -214,7 +214,7 @@ ul {list-style-type: none;}
 {
 body {min-width: 630px; }
 
-header {height: 555px;}
+main {height: 555px;}
 
 nav {margin-right: 20px;}
 
@@ -287,14 +287,14 @@ nav {margin-right: 20px;}
 body {min-width: 430px;
 		max-width: 455px;}
 
-header {height: 750px;}
+main {height: 750px;}
 
 #nicolee {margin: 0 auto; float: none;}
 .div
 	{margin: 0 auto;
 	text-align: center;}
 
-main {height: 220px;}
+#header {height: 220px;}
 
 #divdisponible {width: 100%;
 					margin-top: 15px;
