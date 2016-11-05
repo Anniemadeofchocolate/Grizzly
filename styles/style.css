@@ -35,12 +35,12 @@ main {width: 90%;
 		padding: 0 5%;
 		margin: 0px auto;
 		background:#333333;}
-			#holanico {float: left;
+			#holanico {float: right;
     					margin-top:40px;}
 			.row {width: 100%;
     			display: inline-block;}
-			#formform {width: 70%;float:right;}
-			#imagennico {width: 30%; float:right;}
+			#formform {width: 60%;float:right;}
+			#imagennico {width: 40%; float:left;}
 
 
 
