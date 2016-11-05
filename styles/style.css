@@ -170,7 +170,9 @@ ul {list-style-type: none;}
 	text-align: center;}
 
 #nicolee {margin-right: 50px;}
-
+	
+	#holanico {margin-left: 50px;}
+	
 #divdisponible {width: 100%;
 					height: 90px;
 					 float: left;}
