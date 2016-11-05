@@ -34,7 +34,8 @@ main {width: 90%;
 		height: 280px;
 		padding: 0 5%;
 		margin: 0px auto;
-		background:#333333;}
+		background:#333333;
+		display: inline-block;}
 			#holanico {float: right;
     					margin-top:40px;}
 			.row {width: 100%;
@@ -298,7 +299,7 @@ main {height: 750px;}
 	{margin: 0 auto;
 	text-align: center;}
 
-#header {height: 220px;}
+#header {height: 250px;}
 
 #divdisponible {width: 100%;
 					margin-top: 15px;
