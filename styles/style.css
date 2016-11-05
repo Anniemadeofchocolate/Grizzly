@@ -39,8 +39,8 @@ main {width: 90%;
     					margin-top:40px;}
 			.row {width: 100%;
     			display: inline-block;}
-			#formform {width: 70%;}
-			#imagennico {width: 30%;}
+			#formform {width: 70%;float:right;}
+			#imagennico {width: 30%; float:left;}
 
 
 
