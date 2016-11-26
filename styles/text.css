@@ -1,0 +1,130 @@
+*{padding: 0px; margin: 0px}
+
+/*GLOBAL____________________________________________________________________*/
+
+h1 {font-family: 'Fjalla One', sans-serif, helvetica;
+	letter-spacing: 0.5px;}
+h2 {font-family: 'Fjalla One', sans-serif, helvetica;
+	letter-spacing: 0.5px;}
+h3 {font-family: 'Fjalla One', sans-serif, helvetica;
+	letter-spacing: 0.5px;}
+p {font-family: 'Fjalla One', sans-serif, helvetica;}
+
+#sabias {text-align: center;
+	color: #c5f6ff;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 1.6em;
+	margin-top: 15px;}
+#descubre {margin-top: 10px;
+	font-size: 1.1em;
+	color: #fff; float: left;}
+#descripcion {float: left; }
+.desc {font-family: helvetica; color: #000; margin-left: 50px;
+		text-decoration: none; list-style-image: url(../images/star1.png);float: left; }
+#proximamente1 {color: #fff; text-align: center;
+				margin-top: 15px;
+				margin-bottom: 10px;}
+.suscribete {font-size: 0.9em;
+			color: #fff;
+			letter-spacing: 0.9px;
+			margin-top: 25px;
+			  display: inline-block;}
+
+#priv {text-decoration: none; 
+	font-family: 'Fjalla One', sans-serif, helvetica;
+	color:#b8bcbf;
+	font-size: 0.7em; text-align: center;}
+#priv:hover {color: #fff;}
+#apoyo {text-align: center;
+		margin-top: 10px;
+		color:  #878a8c;}
+#beneficios {margin-top: 20px;
+			margin-bottom: 20px;}
+#proximamente2 {color: #000;}
+#comprar {color: #fff; margin-top: 60px;}
+#comprar2{color: #fff; margin-top: 15px;
+			margin-bottom: 20px;}
+#desdaydreams {color: #fff;}
+#daydreamses {margin-top: 25px;
+			letter-spacing: 0.2px;
+			line-height: 20px;}
+
+/*Estilos para desktop______________________________________________________*/
+@media only screen and (min-width:769px)
+{
+
+#descubre {width: 45%;
+			margin-left: 5%;
+			font-size: 1.3em;
+			text-align: left;
+			margin-top: 30px;}
+
+#descripcion {width: 45%;
+			margin-left: 5%;
+			text-align: left;
+			margin-top: 30px;
+			margin-bottom: 10px;}
+
+.desc {width: 40%;
+			margin-left: 10%;
+			text-align: left;
+			margin-top: 3px;}
+
+} /* NO BORRAR
+
+
+/*Estilos para tablet_______________________________________________________*/
+
+@media only screen and (min-width:481px) and (max-width:768px)
+
+{
+#sabias {font-size: 1.4em;}
+
+#descubre {width: 40%;
+			margin-left: 5%;
+			text-align: left;
+			font-size: 1.1em;
+			margin-top: 25px;}
+
+#sabias {font-size: 1.4em;}
+
+#descripcion {width: 40%;
+			margin-left: 5%;
+			text-align: left;
+			margin-top: 25px;
+			margin-bottom: 5px;}
+
+.desc {width: 30%;
+			margin-left: 10%;
+			text-align: left;
+			margin-top: 4px; float: left;}
+
+
+} /* NO BORRAR
+
+
+/*estilos para mobile_______________________________________________________*/
+
+@media only screen and (max-width:480px) 
+
+{
+#sabias {font-size: 1.2em;}
+#descubre {font-size: 0.9em;}
+	#aprender {font-size: 1em;}
+#descripcion {width: 100%;
+			font-size: 0.9em;
+			text-align: left;
+			margin-top: 35px;
+			margin-bottom: 15px;}
+.suscribete {float: left;
+			width: 60%;}
+
+.desc {font-size: 0.9em;
+	margin-left: 10%;
+			margin-bottom: 5px;
+			text-align: center;}
+
+#daydreamses {font-size: 0.85em;}
+
+} /* NO BORRAR
