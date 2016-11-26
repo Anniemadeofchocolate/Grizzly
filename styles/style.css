@@ -42,7 +42,7 @@ main {width: 90%;
     					margin-left: 5%;
 					background: pink;}
 
-#formulario {width:65%; background:blue;}
+#formulario {width:60%; background:blue; float:right;}
 
 
 		 /*----- estilos visuales de los elementos --------*/
