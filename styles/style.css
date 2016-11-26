@@ -390,6 +390,7 @@ main {height: 750px;}
 footer {height: 60px;}
 #copyright {font-size: 0.66em;
 	text-align:center;
+	margin: 0 auto;
 			margin-top: 30px;}
 
 } /* NO BORRAR
