@@ -37,12 +37,11 @@ main {width: 90%;
 		background:#333333;}
 			.row {width: 100%;
     			display: inline-block;}
- 		#holanico {float: left; background: green;
+ 		#holanico {float: left; 
     					margin-top:40px;
     					margin-left: 7%;}
 
-		#formulario {float:right;
-				width: 50%;}
+		#formulario {width: 60%;}
 
 
 		 /*----- estilos visuales de los elementos --------*/
