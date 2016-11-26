@@ -37,7 +37,7 @@ main {width: 90%;
 		background:#333333;}
 			.row {width: 100%;
     			display: inline-block;}
- 		#holanico {float: left;
+ 		#holanico {float: left; background: green;
     					margin-top:40px;
     					margin-left: 7%;}
 
