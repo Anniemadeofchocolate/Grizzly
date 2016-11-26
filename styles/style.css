@@ -39,8 +39,7 @@ main {width: 90%;
     			display: inline-block;}
  		#holanico {float: left; 
     					margin-top:40px;
-    					margin-left: 5%;
-					background: pink;}
+    					margin-left: 10%;}
 
 #formulario {width:60%; background:blue; float:right;}
 
