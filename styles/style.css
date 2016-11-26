@@ -31,7 +31,7 @@ main {width: 90%;
 		#nicolee {float: right; }
 
 #header {width: 90%;
-		height: 280px;
+		height: 300px;
 		padding: 0 5%;
 		margin: 0px auto;
 		background:#333333;}
@@ -39,9 +39,10 @@ main {width: 90%;
     			display: inline-block;}
  		#holanico {float: left; 
     					margin-top:40px;
-    					margin-left: 5%;}
+    					margin-left: 5%;
+					background: pink;}
 
-#formulario {width:65%;}
+#formulario {width:65%; background:blue;}
 
 
 		 /*----- estilos visuales de los elementos --------*/
