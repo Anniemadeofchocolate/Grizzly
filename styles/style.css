@@ -41,7 +41,8 @@ main {width: 90%;
     					margin-top:40px;
     					margin-left: 10%;}
 
-		#formulario {float:right;}
+		#formulario {float:right;
+				width: 70%;}
 
 
 		 /*----- estilos visuales de los elementos --------*/
